@@ -34,30 +34,15 @@
 
 <div align="center">
 
-`─────────────  stats  ─────────────`
+`─────────────  activity  ─────────────`
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ani-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9A227&icon_color=C9A227&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ani-404&hide_border=true&background=0d1117&stroke=1a1a2e&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+<img height="195" src="https://streak-stats.demolab.com?user=Ani-404&hide_border=true&background=0d1117&stroke=1a1a2e&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ani-404&bg_color=0d1117&color=C9A227&line=C9A227&point=ffffff&area=true&area_color=C9A227&hide_border=true&custom_title=activity&title_color=C9A227"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`─────────────  languages  ─────────────`
-
-<br/>
-
-<a href="https://github.com/Ani-404">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-404&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9A227&text_color=c9d1d9&langs_count=6&card_width=420"/>
-</a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ani-404&bg_color=0d1117&color=C9A227&line=C9A227&point=ffffff&area=true&area_color=C9A227&hide_border=true&custom_title=lately&title_color=C9A227"/>
 
 </div>
 
